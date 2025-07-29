@@ -1,0 +1,8 @@
+torch
+diffusers
+transformers
+safetensors
+opencv-python
+mediapipe==0.10.9
+streamlit
+streamlit-webrtc
